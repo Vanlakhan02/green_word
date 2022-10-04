@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923853171906",
+    "project_id": "faesonproject",
+    "storage_bucket": "faesonproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923853171906:android:f903a1b0e2cdd853f01f5b",
+        "android_client_info": {
+          "package_name": "com.example.greenlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923853171906-ht96g3i6uub5tl19rfadjr9i6k3kb45o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAodedqF5oLLZxVgq5GYELfAnm1ethVd6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923853171906-ht96g3i6uub5tl19rfadjr9i6k3kb45o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
